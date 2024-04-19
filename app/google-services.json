@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527040693502",
+    "project_id": "future-app-9ccf0",
+    "storage_bucket": "future-app-9ccf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527040693502:android:60083a202bab08ae67d1af",
+        "android_client_info": {
+          "package_name": "com.example.adminfutureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC84MlfdXgVStZrX6oApFxnBi56zC8Yc_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
