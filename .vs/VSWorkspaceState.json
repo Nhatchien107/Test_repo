@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\androidTest",
+    "\\app\\src\\androidTest\\java",
+    "\\app\\src\\androidTest\\java\\com",
+    "\\app\\src\\androidTest\\java\\com\\example",
+    "\\app\\src\\androidTest\\java\\com\\example\\adminfutureapp",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\java"
+  ],
+  "SelectedNode": "\\app\\src\\androidTest\\java\\com\\example\\adminfutureapp\\ExampleInstrumentedTest.kt",
+  "PreviewInSolutionExplorer": false
+}
